@@ -1,0 +1,9 @@
+*.pyc
+*.mp4
+.vscode
+__pycache__
+output
+build
+*.egg-info
+data
+screenshots

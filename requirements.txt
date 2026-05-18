@@ -1,0 +1,17 @@
+torch==2.0.1
+torchvision==0.15.2
+imageio
+imageio-ffmpeg
+kornia
+matplotlib
+ninja
+numpy<2
+open3d
+opencv-python
+plyfile
+scikit-image
+scikit-learn
+scipy
+torchmetrics
+mediapy
+tqdm
