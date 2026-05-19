@@ -10,7 +10,7 @@
 CVPR 2026 (Highlight)
 <br>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2605.xxxx-b31b1b)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2605.18263-b31b1b)](https://arxiv.org/pdf/2605.18263)
 [![Project Page](https://img.shields.io/badge/Project-Page-green)](https://sjj118.github.io/RT-Splatting)
 [![Dataset](https://img.shields.io/badge/Drive-Dataset-4285F4)](https://drive.google.com/drive/folders/1mmKcm1Fb5djX3B_PDKfC7XyfQ38_p5nl)
 </div>
